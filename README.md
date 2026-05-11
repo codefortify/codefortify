@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://codefortify.cloud/media/images/profile_1.original.png" width="140" />
+<img src="https://codefortify.cloud/media/images/logo_codefortify.original.png" width="140" />
 
 # CodeFortify
 
